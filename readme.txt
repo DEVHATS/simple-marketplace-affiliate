@@ -1,4 +1,4 @@
-=== Envato Affiliate WordPress Plugin ===
+=== Envato Affiliate Plugin ===
 Contributors: devhats
 Donate link: #
 Tags: affiliate, envato, market, shortcode, shortcodes, themesforest, codecanyon, api
