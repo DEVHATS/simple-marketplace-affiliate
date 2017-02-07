@@ -33,9 +33,3 @@ Es handelt sich hierbei nicht um ein offizielles Plugin von Envato!
 1. Aktiviere das Plugin auf der Plugin Seite in WordPress.
 1. Richte das Plugin in den Plugin Einstellungen unter `Envato Affiliate` ein.
 1. Wichtig ist, dass Du f&uml;r das Plugin einen pers&ouml;nlichen Token der Envato API ben&ouml;tigst. Weitere Informationen dazu, findest Du in den Plugin Einstellungen.
-
-
-## Changelog
-
-#### 1.0
-* Release
