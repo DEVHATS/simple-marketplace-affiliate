@@ -26,7 +26,7 @@ $text_2 = sprintf( __('Deine Affiliate-ID erhälst Du in einem beliebigen %s unt
 			<th scope="row"><?php _e('Pers&ouml;nlicher Token', 'eawp'); ?></th>
 			<td>
 				<input type="text" name="eawp_token" class="regular-text" value="<?php echo esc_attr( get_option('eawp_token') ); ?>"/>
-				<p class="description"><?php sprintf( __('Wenn Du noch keinen Token hast, kannst Du %s.', 'eawp'), $token ); ?></p>
+				<p class="description"><?php echo sprintf( __('Wenn Du noch keinen Token hast, kannst Du %s.', 'eawp'), $token ); ?></p>
 			</td>
 		</tr>
 		<tr valign="top">
