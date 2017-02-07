@@ -16,13 +16,13 @@ In diesem Link lautet die Produkt-ID: 15196030
 Je nach dem was Du für einen Shortcode verwendest, kann du ihn so einsetzen:
 
 ```
-[eawp id="PRODUKT_ID"]
+[eawp id="15196030"]
 ```
 
 oder so...
 
 ```
-[envato id="PRODUKT_ID"]
+[envato id="15196030"]
 ```
 
 Es handelt sich hierbei nicht um ein offizielles Plugin von Envato!
