@@ -5,6 +5,14 @@ Binde mit Shortcodes beliebige Envato Produkte auf deiner WordPress Seite ein un
 
 Mit dem Envato Affiliate WordPres Plugin ist es kinderleicht Envato Market Produkte, auf deiner Webseite zu pr&auml;sentieren. Da das Plugin mit der Envato API zusammenarbeitet, werden immer aktuelle Daten per jQuery AJAX abgerufen. Es gibt also keine langen Ladezeiten, beim Aufrufen deiner Website. In den Plugin Optionen kannst du deinen Affiliate-ID und deinen pers&ouml;nlichen Token setzen. Außerdem gibt es zwei verschieden Shortcodes. Du kannst einen w&auml;hlen und f&uuml;r Dich selbst entscheiden, wie Du Envato Produkte auf Deiner Website ver&ouml;ffentlichst.
 
+### Verwendung
+
+Die Produkt-ID findest Du auf den jeweiligen Produktseiten von Envato.
+
+https://themeforest.net/item/onyx-responsive-wordpress-blog-theme/15196030
+
+In diesem Link lautet die Produkt-ID: 15196030
+
 Je nach dem was Du für einen Shortcode verwendest, kann du ihn so einsetzen:
 
 ```
