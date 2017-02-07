@@ -37,5 +37,5 @@ Es handelt sich hierbei nicht um ein offizielles Plugin von Envato!
 
 ## Changelog
 
-= 1.0 =
+#### 1.0
 * Release
