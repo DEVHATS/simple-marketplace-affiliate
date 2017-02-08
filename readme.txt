@@ -4,7 +4,7 @@ Donate link: #
 Tags: affiliate, envato, market, shortcode, shortcodes, themesforest, codecanyon, api
 Requires at least: 4.6
 Tested up to: 4.7
-Stable tag: 4.3
+Stable tag: 0.1.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,6 +13,8 @@ Binde mit Shortcodes beliebige Marketplace Produkte auf deiner WordPress Seite e
 == Description ==
 
 Mit dem Simple Marketplace Affiliate WordPress Plugin ist es kinderleicht Envato Market Produkte, auf deiner Webseite zu pr&auml;sentieren. Da das Plugin mit der Envato API zusammenarbeitet, werden immer aktuelle Daten per jQuery AJAX abgerufen. Es gibt also keine langen Ladezeiten, beim Aufrufen deiner Website. In den Plugin Optionen kannst du deinen Affiliate-ID und deinen pers&ouml;nlichen Token setzen. Außerdem gibt es zwei verschieden Shortcodes. Du kannst einen w&auml;hlen und f&uuml;r Dich selbst entscheiden, wie Du Envato Produkte auf Deiner Website ver&ouml;ffentlichst.
+
+Wichtig: Aktuell läuft das Ganze nur für Themes von Themeforest!
 
 Es handelt sich hierbei nicht um ein offizielles Plugin von Envato, oder deren Produkte!
 
@@ -26,5 +28,8 @@ Es handelt sich hierbei nicht um ein offizielles Plugin von Envato, oder deren P
 
 == Changelog ==
 
-= 1.0 =
-* Release
+= 0.1.1 =
+* Kleinere Schreibfehler korrigiert
+
+= 0.1 =
+* Beta-Release
