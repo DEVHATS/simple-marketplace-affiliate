@@ -3,10 +3,11 @@
  * Plugin Name: Simple Marketplace Affiliate
  * Plugin URI: https://devhats.de
  * Description: Binde mit Shortcodes beliebige Envato Produkte auf deiner WordPress Seite ein und setze in den Optionen deinen Affiliate Tag, um auch noch Geld damit zu verdienen.
- * Version: 0.1.1
+ * Version: 0.1.2
  * Author: DEVHATS
  * Author URI: https://devhats.de
  * Text Domain: eawp
+ * Domain Path: /languages
  * License: MIT License
  * License URI: http://opensource.org/licenses/MIT
  */
