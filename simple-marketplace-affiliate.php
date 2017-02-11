@@ -3,7 +3,7 @@
  * Plugin Name: Simple Marketplace Affiliate
  * Plugin URI: https://devhats.de
  * Description: Binde mit Shortcodes beliebige Envato Produkte auf deiner WordPress Seite ein und setze in den Optionen deinen Affiliate Tag, um auch noch Geld damit zu verdienen.
- * Version: 0.1.2
+ * Version: 0.1.3
  * Author: DEVHATS
  * Author URI: https://devhats.de
  * Text Domain: eawp
@@ -11,6 +11,9 @@
  * License: MIT License
  * License URI: http://opensource.org/licenses/MIT
  */
+ 
+// Prevent direct access
+if ( ! defined( 'ABSPATH' ) ) exit;
 
 // ================================ //
 // 				Base				//
@@ -127,13 +130,13 @@ function eawp_ajax()
 	else {
 		
 		$item = array(
-			'url' => $item->url,
-			'icon_url' => $item->previews->icon_preview->icon_url,
-			'theme_name' => $item->wordpress_theme_metadata->theme_name,
-			'site' => $item->site,
-			'version' => $item->wordpress_theme_metadata->version,
-			'description' => $item->wordpress_theme_metadata->description,
-			'author_name' => $item->wordpress_theme_metadata->author_name,
+			'url' => esc_url($item->url),
+			'icon_url' => esc_url($item->previews->icon_preview->icon_url),
+			'theme_name' => esc_html($item->wordpress_theme_metadata->theme_name),
+			'site' => esc_html($item->site),
+			'version' => esc_html($item->wordpress_theme_metadata->version),
+			'description' => esc_html($item->wordpress_theme_metadata->description),
+			'author_name' => esc_html($item->wordpress_theme_metadata->author_name),
 			'author_url' => $item->author_url,
 			'ref' => ( $ref ? '?ref=' . $ref : '' )
  		);

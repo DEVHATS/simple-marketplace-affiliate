@@ -48,9 +48,8 @@
 
 				<ul>
 					<li><a href="https://devhats.de/" target="_blank"><?php _e('Plugin-Website', 'eawp'); ?></a></li>
-					<li><a href="https://github.com/DEVHATS/envato-affiliate-wordpress-plugin/" target="_blank"><?php _e('Github', 'eawp'); ?></a></li>
-					<li><a href="https://github.com/DEVHATS/envato-affiliate-wordpress-plugin/releases/" target="_blank"><?php _e('Changelog', 'eawp'); ?></a></li>
-					<li><a href="https://github.com/DEVHATS/envato-affiliate-wordpress-plugin/issues/" target="_blank"><?php _e('Support', 'eawp'); ?></a></li>
+					<li><a href="https://wordpress.org/plugins-wp/simple-marketplace-affiliate/" target="_blank"><?php _e('Changelog', 'eawp'); ?></a></li>
+					<li><a href="https://wordpress.org/support/plugin/simple-marketplace-affiliate/" target="_blank"><?php _e('Support', 'eawp'); ?></a></li>
 				</ul>
 				
 			</div><!-- end .envato-affiliate-informations -->
