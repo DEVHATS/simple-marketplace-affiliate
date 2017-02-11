@@ -4,9 +4,9 @@ Donate link: https://www.paypal.me/834rd
 Tags: affiliate, envato, market, shortcode, shortcodes, themesforest, codecanyon, api
 Requires at least: 4.6
 Tested up to: 4.7
-Stable tag: 0.1.1
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Stable tag: 0.1.2
+License: MIT License
+License URI: http://opensource.org/licenses/MIT
 
 Binde mit Shortcodes beliebige Marketplace Produkte auf deiner WordPress Seite ein und setze in den Optionen deinen Affiliate Tag, um auch noch Geld damit zu verdienen.
 
@@ -39,6 +39,9 @@ Die Produkt-ID findest du in der URL der jeweiligen Produktseiten. Hier im Beisp
 
 
 == Changelog ==
+
+= 0.1.2 =
+* Domain-Path hinzugef&uuml;gt 
 
 = 0.1.1 =
 * Kleinere Schreibfehler korrigiert
