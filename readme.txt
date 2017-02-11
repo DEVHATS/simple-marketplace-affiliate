@@ -1,6 +1,6 @@
 === Simple Marketplace Affiliate ===
 Contributors: devhats, pixelbart
-Donate link: #
+Donate link: https://www.paypal.me/834rd
 Tags: affiliate, envato, market, shortcode, shortcodes, themesforest, codecanyon, api
 Requires at least: 4.6
 Tested up to: 4.7
