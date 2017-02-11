@@ -20,21 +20,15 @@ In den Plugin Optionen kannst du deinen Affiliate-ID und deinen pers&ouml;nliche
 
 Die Produkt-ID findest du in der URL der jeweiligen Produktseiten. Hier im Beispiel lautet die Produkt-ID: 15196030
 
-```
-XYZ.net/item/onyx-responsive-wordpress-blog-theme/15196030
-```
+`XYZ.net/item/onyx-responsive-wordpress-blog-theme/15196030`
 
 **Shortcode**  
 
-```
-[envato id="XYZ"]
-```
+`[envato id="XYZ"]`
 
 **Alternativer Shortcode**  
 
-```
-[eawp id="XYZ"]
-```
+`[eawp id="XYZ"]`
 
 == Installation ==
 
